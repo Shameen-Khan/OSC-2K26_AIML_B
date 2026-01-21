@@ -4,7 +4,7 @@ Error Type: LOGIC
 Difficulty: Medium
 """
 
-# Generic logic for Budget Validator
+ 
 def run():
     x = 10
     y = 0

@@ -4,7 +4,6 @@ Error Type: LOGIC
 Difficulty: Medium
 """
 
-# Generic logic for Grade Validator
 def run():
     x = 10
     y = 0
