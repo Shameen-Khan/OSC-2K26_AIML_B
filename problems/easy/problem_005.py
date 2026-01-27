@@ -11,5 +11,5 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-items = ["apples", "bananas" "carrots"]
+items = ["apples", "bananas" , "carrots"]
 print(items)
