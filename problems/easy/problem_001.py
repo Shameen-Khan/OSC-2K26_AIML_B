@@ -11,10 +11,11 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
+
 def calculate(a, b, op):
     if op == '+':
         return a + b
-    elif op == '-'
+    elif op == '-':
         return a - b
     else:
         return "Unknown operation"
