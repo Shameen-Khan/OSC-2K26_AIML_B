@@ -12,6 +12,6 @@ Difficulty: Easy
 """
 
 text = "ab"
-times = "3"
+times = 3
 result = text * times
 print(result)
