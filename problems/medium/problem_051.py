@@ -8,7 +8,7 @@ def calculate_budget(items):
     total = 0
    
     for item in items:
-        total = item 
+        total += item 
     return total
 
 print(calculate_budget([10, 20, 30]))
